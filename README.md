@@ -19,7 +19,7 @@ _____
 **Decisión sobre negativos y decimales** (¿los acepto? ¿por qué?):
 Si se capetan numeros decimales o negativos, el pprograma puede realizar suma con los diferentes tipos de datos. Siempre que sean arabigos
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
-La suma de todos los numeros hasta el momento
+La suma de todos los numeros hasta el momento, solo pueden ser 5 numeros
 ## 4. Casos resueltos a mano (Fase 1)
 
 | Caso | Números | Suma calculada a mano |
